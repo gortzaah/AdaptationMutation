@@ -13,4 +13,4 @@ Contains .gif files of accumulated single-agent data from multiple simulations e
 Contains the source code (Java) for ABM simulations. Critical dependencies: [HAL](https://github.com/MathOnco/HAL) and [Jcommander](https://jcommander.org/) (UNDER CONSTRUCTION)
 
 ## Analysis
-Contains the code (Python) to analyze the simulations (.csv) generated from the code in ABMcode
+Contains the code (Python) to analyze the simulations (.csv) generated from the code in ABMcode (UNDER CONSTRUCTION)
