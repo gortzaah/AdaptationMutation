@@ -1,7 +1,7 @@
 # AdaptationMutation
 
 
-Contains files related to the manuscript (post a link to bioarxiv once done)
+Contains files related to the manuscript [The adaptive state determines the impact of mutations on evolving populations (bioarxiv)](doi.org/10.1101/2024.12.11.627972)
 
 ## movies_simulations 
 Contains .gif files of the ABM simulations for pmut = 0 and pmut = 1; each folder contains 3 independent simulations. 
